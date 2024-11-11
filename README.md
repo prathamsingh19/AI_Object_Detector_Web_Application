@@ -1,6 +1,6 @@
 # AI Object Detector Web Application 📃
 
-Welcome to a **react to-do list app** that lets you add tasks with due dates, track their status, and easily delete them, all with a smooth, intuitive interface. 🌟
+Welcome to an **AI-powered** object detector for real-time webcam tracking. Detects **persons**, **objects**, and other elements quickly with enhanced accuracy and performance for seamless integration into various applications. 🌟
 
 ## 🚀 Features
 
