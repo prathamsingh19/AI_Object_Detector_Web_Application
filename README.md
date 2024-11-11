@@ -1,4 +1,4 @@
-# AI Object Detector Web Application 📃
+# AI Object Detector Web Application 📸
 
 Welcome to an **AI-powered** object detector for real-time webcam tracking. Detects **persons**, **objects**, and other elements quickly with enhanced accuracy and performance for seamless integration into various applications. 🌟
 
